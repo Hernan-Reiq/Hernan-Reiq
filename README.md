@@ -5,4 +5,4 @@
 ___
 ### [Visita mi portafolio de proyectos y habilidades](https://bit.ly/hernanreiq)
 ___
-#### Este perfil de GitHub lo utilizo para practicar algunas cosas, por lo que te recomendaría que mejor visitaras mi otro perfil: @hernanreiq
+#### Este perfil de GitHub lo utilizo para practicar algunas cosas, por lo que te recomendaría que mejor visitaras mi otro perfil: [@hernanreiq](https://github.com/hernanreiq)
