@@ -7,11 +7,9 @@ Dominicano</br>
 Ingeniero de Sistemas y Computación</br>
 Desarrollador y Diseñador Web (2 Stacks)</br>
 </h2>
-<hr>
 <h2 align="center">
 <a href="https://bit.ly/hernanreiq" target="_blank">Visita mi portafolio de proyectos y habilidades</a>
 </h2>
-<hr>
 <h3 align="center">
      Esta cuenta de GitHub la utilizo para practicar algunas cosas, por lo que te recomiendo que visites mi otro perfil: <a href="https://github.com/hernanreiq" target="_blank">@hernanreiq</a>
 </h3>
