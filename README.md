@@ -1,6 +1,6 @@
 <h1 align="center">Hernan V. Demorizi Ureña</h1>
 <p align="center">
-<img src="https://avatars.githubusercontent.com/u/42702735?u=1830c835e5101617909350395201e9faf5d35913&v=4" alt="Hernan Virgilio Demorizi Ureña">
+<img src="https://avatars.githubusercontent.com/u/42702735?u=1830c835e5101617909350395201e9faf5d35913&v=4" alt="Hernan Virgilio Demorizi Ureña" style="border-radius: 15px;">
 </p>
 <h2 align="center">
 Dominicano</br>
